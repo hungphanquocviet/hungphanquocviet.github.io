@@ -16,22 +16,50 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "hungphanquocviet",
+        "url": "https://github.com/hungphanquocviet"
       }
     ]
   },
   "work": [
     {
+      "name": "School of Dentistry, University of Utah",
+      "position": "Research Assistant",
+      //"url": "https://example.com",
+      "startDate": "2024-05-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Designed a MySQL database for 1TB of health data, optimizing for efficient storage and query performance.", "Prepared manuscripts and implemented statistical analysis methods in Python using Jupyter Lab.", "Employed mathematical modeling, software development, big data analysis, and high-performance computing to study pathogen emergence, spread, and existing epidemics."]
+    },
+    {
+      "name": "Kahlert School of Computing, University of Utah",
+      "position": "Teaching Assistant",
+      //"url": "https://example.com",
+      "startDate": "2023-08-22",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Guided students through data structures and algorithms concepts and assignments during office hours.", "Provided grades and detailed feedback for assignments, emphasizing code efficiency and best practices."]
+    },
+    {
       "name": "Scientific Computing and Imaging Institute",
       "position": "Research Assistant",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      //"url": "https://example.com",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "summary": "",
+      "highlights": ["Developed a Visual Studio Code extension tool for seamless integration and manipulation of graph data structures.", "Implemented a robust feature set for exporting graph data structures to DOT language formats.", "Enhanced teaching effectiveness by integrating interactive visualizations, facilitating a deeper understanding of graph data structures for students."]
+    },
+    {
+      "name": "LSTS Robotics Team",
+      "position": "Programmer",
+      //"url": "https://example.com",
+      "startDate": "2018-05-01",
+      "endDate": "2021-05-01",
+      "summary": "",
+      "highlights": ["Won second place in World Robot Olympiad Competition National level by working with two team members to develop a solution using LEGO Mindstorms to solve a specific problem given by the Association.", "Achieved top 4 ranking nationally in First Lego League Competition by leading a six-member team to research and address a real-world issue, effectively presenting findings using LEGO Mindstorms technology.", "Implemented and fine-tuned the PID algorithm, a widely recognized and extensively used control algorithm in WRO and FLL, to optimize robot accuracy and performance."]
     }
+    
   ],
   // "volunteer": [
   //   {
@@ -47,68 +75,86 @@
   // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Utah",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.utah.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-15",
+      "endDate": "2026-06-05",
+      "score": "4",
+      "courses": ["Data Structures and Algorithms", "Probability and Statistics", "Computer Organizations", "Database Systems", "Software Practice", "Data Wrangling"]
+    },
+    {
+      "institution": "University of Utah",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.utah.edu/",
+      "area": "Applied Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2023-08-15",
+      "endDate": "2026-06-05",
+      "score": "4",
+      "courses": ["Calculus I, II, III", "Foundation of Analysis", "Linear Algebra", "Discrete Math", "Differential Equations"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Teaching Assistant Award",
+      "date": "2024-04",
+      "awarder": "Kahlert School of Computing, University of Utah",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Awarded to one teaching assistant in the School of Computing per school year in recognition of exceptional teaching skills and genuine concern for students."
+    },
+    {
+      "title": "Top 4 Final - FIRST Lego League Competition 2019 - National Round",
+      "date": "2019-01",
+      "awarder": "HO CHI MINH CITY DEPARTMENT OF EDUCATION AND TRAINING",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": ""
+    },
+    {
+      "title": "Bronze Medalist - World Robot Olympiad Competition - National Final Round",
+      "date": "2018-08",
+      "awarder": "HO CHI MINH CITY DEPARTMENT OF EDUCATION AND TRAINING",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": ""
+    },
+    {
+      "title": "Top 4 Final - FIRST Lego League Competition 2018 - National Round",
+      "date": "2018-01",
+      "awarder": "HO CHI MINH CITY DEPARTMENT OF EDUCATION AND TRAINING",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": ""
+    },
+    {
+      "title": "Silver Medalist - World Robot Olympiad Competition - National Final Round",
+      "date": "2017-08",
+      "awarder": "HO CHI MINH CITY DEPARTMENT OF EDUCATION AND TRAINING",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": ""
+    },
+    {
+      "title": "Silver Medalist - Olympic 30/4 Competition - Ho Chi Minh city",
+      "date": "2017-04",
+      "awarder": "HO CHI MINH CITY DEPARTMENT OF EDUCATION AND TRAINING",
+      //"url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
+      "name": "Machine Learning Specialization",
+      "date": "2024-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/KJXH7CBRCXJ8",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Intro to Image Processing",
+      "date": "2023-11",
+      "issuer": "MathWorks",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/NEM3F9VSMC5L",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   // "publications": [
@@ -136,46 +182,78 @@
   // ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C++, C#, Java, Python, SQL, JavaScript"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Qt Creator, VS Code, Eclipse, Visual Studio, IntelliJ, DataSpell"
+      ]
+    },
+    {
+      "name": "Technologies/Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Jupyter Notebook, Jupyter Lab, Git/GitHub, MySQL, LINQ, Agile, APIs, .NET"
+      ]
+    },
+    {
+      "name": "Data Science Modules",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Matplotlib, Pandas, SciPy, NumPy, scikit-learn, statsmodels, tensorflow, OpenCV"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Vietnamese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker",
+      "icon": ""
     }
   ],
-  // "interests": [
-  //   {
-  //     "name": "Physics",
-  //     "icon": "fa-solid fa-tag",
-  //     "keywords": [
-  //       "Quantum Mechanics",
-  //       "Quantum Computing",
-  //       "Quantum Information",
-  //       "Quantum Cryptography",
-  //       "Quantum Communication",
-  //       "Quantum Teleportation"
-  //     ]
-  //   }
-  // ],
-  // "references": [
+  "interests": [
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Data Visualization",
+        "Computer Graphics",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Calculus",
+        "Differential Equations"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Fusion, Funk",
+        "Japanese Math Rock, Indie"
+      ]
+    }
+  ],
+  //"references": [
   //   {
   //     "name": "Professor John Doe",
   //     "icon": "fa-solid fa-laptop",
@@ -189,12 +267,60 @@
   // ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Book Keeping Web Application",
+      "summary": "D3.js, Firebase, JavaScript, HTML/CSS",
+      "highlights": ["Developed a bookkeeping web application enabling users to import Goodreads data and store it on Firebase, featuring login/signup functionality", "Implemented data visualization using D3.js to display users’ Goodreads data in an engaging and informative manner.", "Integrated APIs for efficient retrieval of book recommendations, popular books of the week, and currently reading lists."],
+      "startDate": "2024-05-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Learning Management System",
+      "summary": "C#, MySQL, LINQ, ASP.NET",
+      "highlights": ["Designed and implemented a learning management system web application with key features such as user authentication, assignment submission, class enrollment, grading, and class management.", "Implemented user authentication and role-based access for students, professors, and admins.", "Ensured a stable deployment on a Linux platform, enhancing the overall system performance and reliability."],
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-01",
+      "url": ""
+    },
+    {
+      "name": "Sprite Editor Software",
+      "summary": "C++, Qt Creator, Waterfall",
+      "highlights": ["Collaborated in a team of 6 using the Waterfall development method to create a Sprite Editor Software.","Implemented core features in C++ and Qt Creator, including color change, brush size adjustment, undo/redo, eraser, and save/load/export functions.", "Enhanced user experience with essential sprite editing tools for efficient and intuitive sprite creation."],
+      "startDate": "2024-03",
+      "endDate": "2024-03",
+      "url": ""
+    },
+    {
+      "name": "VS Code Graph Visualization Extension",
+      "summary": "Node.js, JavaScript, VSCode API, Azure",
+      "highlights": ["Created a VS Code extension for visualizing graph structures with an intuitive interface for node and edge creation.", "Implemented features such as undo/redo actions, selective erasing, and full canvas deletion.", "Deployed the project through Azure to the VS Code extension marketplace, enabling widespread availability."],
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01",
+      "url": ""
+    },
+    {
+      "name": "Snake Multiplayer Game",
+      "summary": "C#, MAUI, TCP/IP, Visual Studio",
+      "highlights": ["Teamed up with a colleague to develop a real-time multiplayer snake game, adhering to the MVC architecture.", "Developed a robust networking infrastructure for the multiplayer functionality, utilizing TCP/IP sockets.", "Optimized the game to accomodate a maximum of 20 concurrent players without latency issue."],
+      "startDate": "2023-10-01",
+      "endDate": "2023-12-01",
+      "url": ""
+    },
+    {
+      "name": "3D CPU Rendering Software",
+      "summary": "C#, UWP, Sharp3DX",
+      "highlights": ["Developed a 3D renderer, with the capability to process Blender-exported meshes through JSON.", "Executed precise 3D mesh filling using rasterization and Z-buffer, ensuring depth precision.", "Implemented Flat Shading for precise control over lighting, enhancing realism and visual appeal."],
+      "startDate": "2023-11-01",
+      "endDate": "2023-12-01",
+      "url": ""
+    },
+    {
+      "name": "Data Wrangling Portfolio Project",
+      "summary": "Python, Jupyter Notebook",
+      "highlights": ["Scraped and cleaned 40MB of data from a movie database, for data analysis purposes.", "Analyzed the correlation and causation effect of each variable (e.g. movie release date, genre, popularity) to the score.", "Developed a predictive model with an 80% accuracy score for forecasting movie scores."],
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
+      "url": ""
     }
   ]
 }
