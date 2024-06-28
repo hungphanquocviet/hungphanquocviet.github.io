@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of my projects.
+description: Collection of my personal and open source projects.
 nav: true
 nav_order: 3
-display_categories: 
+display_categories: [Graphics/Visualization, Web/Software Apps, Notebooks, Math]
 horizontal: false
 ---
 
