@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collection of my personal and open source projects.
 nav: true
 nav_order: 3
-display_categories: [Graphics/Visualization, Web/Software Apps, Notebooks, Math]
+display_categories: [projects]
 horizontal: false
 ---
 

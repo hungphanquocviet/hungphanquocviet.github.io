@@ -1,10 +1,10 @@
 ---
 layout: page
-title: VS Code Graph Tool
-description: An extension for graph data structure visualization.
-img: assets/img/graph-ds.png
+title: Data Science
+description: Collection of data science projects
+img: assets/img/brown.jpg
 importance: 1
-category: Graphics/Visualization
+category: projects
 related_publications: false
 ---
 

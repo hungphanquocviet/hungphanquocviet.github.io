@@ -6,7 +6,7 @@
     "email": "hungphanquocviet@gmail.com",
     // "phone": "(912) 123-4567",
     "url": "https://github.com/hungphanquocviet",
-    "summary": "A junior studying Computer Science and Applied Mathematics at University of Utah, interested in computer graphics and data visualization.",
+    "summary": "A junior studying Computer Science and Applied Mathematics at University of Utah.",
     "location": {
       "address": "University of Utah",
       "postalCode": "UT 84112",
@@ -24,26 +24,44 @@
   },
   "work": [
     {
-      "name": "School of Dentistry, University of Utah",
-      "position": "Research Assistant",
+      "name": "Kahlert School of Computing, University of Utah",
+      "position": "CS 3500 Lead Teaching Assistant",
       //"url": "https://example.com",
-      "startDate": "2024-05-01",
+      "startDate": "2024-08-15",
       "endDate": "",
       "summary": "",
-      "highlights": ["Designed a MySQL database for 1TB of health data, optimizing for efficient storage and query performance.", "Prepared manuscripts and implemented statistical analysis methods in Python using Jupyter Lab.", "Employed mathematical modeling, software development, big data analysis, and high-performance computing to study pathogen emergence, spread, and existing epidemics."]
+      "highlights": ["Lead Teaching Assistant for Software Practice."]
+    },
+    {
+      "name": "School of Dentistry, University of Utah",
+      "position": "Data Science Research Assistant",
+      //"url": "https://example.com",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-22",
+      "summary": "",
+      "highlights": ["Prepared manuscripts and implemented statistical analysis methods in Python using Jupyter Lab.", "Employed mathematical modeling, software development, big data analysis, and high-performance computing to study pathogen emergence, spread, and existing epidemics."]
     },
     {
       "name": "Kahlert School of Computing, University of Utah",
-      "position": "Teaching Assistant",
+      "position": "CS 2420 Teaching Assistant",
       //"url": "https://example.com",
-      "startDate": "2023-08-22",
-      "endDate": "",
+      "startDate": "2024-01-08",
+      "endDate": "2024-08-02",
       "summary": "",
       "highlights": ["Guided students through data structures and algorithms concepts and assignments during office hours.", "Provided grades and detailed feedback for assignments, emphasizing code efficiency and best practices."]
     },
     {
+      "name": "Kahlert School of Computing, University of Utah",
+      "position": "CS 1400 Teaching Assistant",
+      //"url": "https://example.com",
+      "startDate": "2023-08-01",
+      "endDate": "2024-12-15",
+      "summary": "",
+      "highlights": ["Teaching Assistant for Intro to Computer Science","Guided students through Python concepts and assignments during office hours.", "Provided grades and detailed feedback for assignments, emphasizing code efficiency and best practices."]
+    },
+    {
       "name": "Scientific Computing and Imaging Institute",
-      "position": "Research Assistant",
+      "position": "Software Engineer Intern",
       //"url": "https://example.com",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
@@ -83,7 +101,7 @@
       "startDate": "2022-08-15",
       "endDate": "2026-06-05",
       "score": "4",
-      "courses": ["Data Structures and Algorithms", "Probability and Statistics", "Computer Organizations", "Database Systems", "Software Practice", "Data Wrangling"]
+      "courses": []
     },
     {
       "institution": "University of Utah",
@@ -94,7 +112,7 @@
       "startDate": "2023-08-15",
       "endDate": "2026-06-05",
       "score": "4",
-      "courses": ["Calculus I, II, III", "Foundation of Analysis", "Linear Algebra", "Discrete Math", "Differential Equations"]
+      "courses": []
     }
   ],
   "awards": [

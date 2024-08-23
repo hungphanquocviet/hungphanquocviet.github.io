@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: This includes my public repositories.
-nav: true
+nav: false
 nav_order: 4
 ---
 
