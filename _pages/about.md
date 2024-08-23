@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>The University of Utah</p>
-    <p>Salt Lake City, UT 84112</p><br>
+    <p>Salt Lake City, UT</p><br>
     
     <p>---</p><br>
     
