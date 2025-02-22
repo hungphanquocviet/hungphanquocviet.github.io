@@ -36,8 +36,6 @@ navigation:
     url: "/"
   - title: "Posts"
     url: "/posts/"
-  - title: "About"
-    url: "/about/"
 
 
 rss: false
