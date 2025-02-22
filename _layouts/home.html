@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
+<div class="home">
+  <div class="left">
+    <img src="{{ site.baseurl }}/assets/img/prof_pic.jpg" alt="Profile Picture" class="profile-pic">
+
+    <div class="left-content">
+      <!-- <p>Passionate about Computer Science, AI, and problem-solving. 🚀</p> -->
+      <p>≽^•⩊•^≼ ₊˚⊹♡</p>
+      <div class="contact-info">
+        <p><strong>Email:</strong> hungphanquocviet@gmail.com</p>
+        <p><strong>Location:</strong> Salt Lake City, UT</p>
+      </div>
+
+      <div class="social-links">
+        <a href="https://github.com/hungphanquocviet" target="_blank">
+          <i class="fab fa-github"></i> GitHub
+        </a>
+        <a href="https://linkedin.com/in/hungphanquocviet" target="_blank">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="right">
+    {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
+  </div>
+
+</div>
