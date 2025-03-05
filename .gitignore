@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 draft.txt
 vendor
+Gemfile.lock
