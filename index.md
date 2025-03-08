@@ -12,10 +12,7 @@ layout: home
 [![Kattis](https://img.shields.io/badge/KATTIS-F28C28?style=for-the-badge&logo=Cat&logoColor=white)](https://open.kattis.com/users/hungphan1911)
 
 
-My name is Hung, I am a **Computer Science and Applied Mathematics** student at the University of Utah. I have experience in back-end development and data science. 
-
-Currently, I am learning topics in computer graphics, computer systems, and probably some AI/ML.
-
+I'm Hung, a **Computer Science and Applied Mathematics** student at the University of Utah. I have experience in back-end development and data science, and I enjoy exploring topics in algorithms, computer graphics, and data-driven technologies.
 
 In my free time, I enjoy watching anime, playing instruments, and solving coding problems.
 
@@ -29,7 +26,7 @@ I am a Teaching Assistant at the Kahlert School of Computing, University of Utah
 - CS 2420: Data Structures and Algorithms (Spring 2024, Summer 2024)
 - CS 1400: Intro to Programming (Fall 2023)
 
-## My Projects 👨‍💻
+<!-- ## My Projects 👨‍💻
 
-*will update at some point...*
+*will update at some point...* -->
 
