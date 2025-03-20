@@ -32,10 +32,12 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - title: "Home"
+  - title: ""
     url: "/"
   - title: "Posts"
     url: "/posts/"
+  - title: "CV"
+    url: "/cv/"
 
 
 rss: false

@@ -1,22 +1,34 @@
 ---
 layout: home
+title: ""
+permalink: /
 ---
 
-## About Me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungphanquocviet)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hungphanquocviet/)
+ <h1 align = "center">Hi there!👋</h1>
+
+
+<!-- ![](assets/img/pjsk-pjsk-anime.gif) -->
+<!-- # About Me -->
+
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/hungphan1911/)
-<!-- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sua_tuoi_dau) -->
-[![Kattis](https://img.shields.io/badge/KATTIS-F28C28?style=for-the-badge&logo=Cat&logoColor=white)](https://open.kattis.com/users/hungphan1911)
 
+<!-- [![Kattis](https://img.shields.io/badge/KATTIS-F28C28?style=for-the-badge&logo=Cat&logoColor=white)](https://open.kattis.com/users/hungphan1911) -->
+
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungphanquocviet)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hungphanquocviet/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/hungphan1911/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sua_tuoi_dau)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hungphanquocviet) -->
 
 I'm Hung, a **Computer Science and Applied Mathematics** student at the University of Utah. I have experience in back-end development and data science, and I enjoy exploring topics in algorithms, computer graphics, and data-driven technologies.
 
+
 In my free time, I enjoy watching anime, playing instruments, and solving coding problems.
 
-- [My updated resume](assets/resume_hung_phan_0125.pdf) (updated February 2025)
+
+
+<h1 align = "center" ><img src="assets/img/cute-kawaii.gif" /></h1>
 
 ## Teaching Assistantships ⌨️
 
@@ -26,7 +38,6 @@ I am a Teaching Assistant at the Kahlert School of Computing, University of Utah
 - CS 2420: Data Structures and Algorithms (Spring 2024, Summer 2024)
 - CS 1400: Intro to Programming (Fall 2023)
 
-<!-- ## My Projects 👨‍💻
+## My Projects 👨‍💻
 
-*will update at some point...* -->
-
+*will update at some point...*
