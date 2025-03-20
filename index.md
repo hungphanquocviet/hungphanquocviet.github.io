@@ -21,6 +21,25 @@ permalink: /
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sua_tuoi_dau)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hungphanquocviet) -->
 
+<!-- <p align="center">
+  <a href="https://github.com/hungphanquocviet" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/hungphanquocviet/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/hungphan1911/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+  <a href="https://codeforces.com/profile/sua_tuoi_dau" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/hungphanquocviet" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+</p> -->
+
+
 I'm Hung, a **Computer Science and Applied Mathematics** student at the University of Utah. I have experience in back-end development and data science, and I enjoy exploring topics in algorithms, computer graphics, and data-driven technologies.
 
 
@@ -30,14 +49,8 @@ In my free time, I enjoy watching anime, playing instruments, and solving coding
 
 <h1 align = "center" ><img src="assets/img/cute-kawaii.gif" /></h1>
 
-## Teaching Assistantships ⌨️
 
-I am a Teaching Assistant at the Kahlert School of Computing, University of Utah. I'm currently the lead TA for Software Practice I. I've also TAed for:
-
-- CS 3500: Software Practice I (Fall 2024, Spring 2025)
-- CS 2420: Data Structures and Algorithms (Spring 2024, Summer 2024)
-- CS 1400: Intro to Programming (Fall 2023)
-
+<!-- 
 ## My Projects 👨‍💻
 
-*will update at some point...*
+*will update at some point...* -->
