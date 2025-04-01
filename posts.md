@@ -9,10 +9,11 @@ Here I will try to post stuff :), including leetcode solutions, data structures,
 
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%b %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+
+{{ post.date | date: "%b %d, %Y" }}
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+
+{% endfor %}
+

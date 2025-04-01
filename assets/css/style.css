@@ -1,3 +1,85 @@
 .site-header {
-    border-top: 0px;
+  border-top: 0px;
+}
+
+body {
+  font-family: 'Source Serif Pro', serif;
+  line-height: 1.6;
+  word-spacing: 0.1em;
+}
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 900px;
+  gap: 2rem;
+  align-items: flex-start;
+  color: #333;
+}
+
+.bio-text {
+  flex: 2;
+}
+
+.bio-text p {
+  margin-bottom: 1.25rem;
+}
+
+.float-img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.project-container h2 {
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.project-text {
+  flex: 2;
+}
+
+.project-text p {
+  margin-bottom: 1rem;
+}
+
+.project-text a {
+  color: #3f51b5;
+  text-decoration: none;
+}
+
+.project-photo {
+  flex: 1;
+  max-width: 200px;
+}
+
+.project-photo img {
+  width: 180px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+.tech-stack {
+  font-family: 'Fira Code', 'Consolas', 'Courier New', monospace;
+}
+
+.project-text a {
+  text-decoration: none;
+  position: relative;
+}
+
+.project-text a:hover {
+  text-decoration: underline;
 }
