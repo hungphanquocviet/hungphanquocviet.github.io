@@ -83,3 +83,13 @@ body {
 .project-text a:hover {
   text-decoration: underline;
 }
+
+.cv-content {
+  margin-bottom: 0px;
+}
+
+
+#cv-dates {
+  margin-bottom: 10px;
+  /* font-style: italic; */
+}
