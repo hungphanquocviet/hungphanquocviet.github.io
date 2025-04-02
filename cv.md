@@ -3,7 +3,7 @@ layout: default
 title: "CV"
 permalink: /cv/
 ---
-Here is a long list of stuff I did
+Here is a list of stuff I did
 - [My updated resume in pdf](../assets/resume_hung_phan_0125.pdf){:target="_blank"} (updated February 2025)
 
 # Education
@@ -39,9 +39,32 @@ Here is a long list of stuff I did
 - Implemented a robust feature set for exporting graph data structures to DOT language formats.
 - Enhanced teaching effectiveness by integrating interactive visualizations, facilitating a deeper understanding of graph data structures for students.
 
+# Activities
+
+<h3 class="cv-content"> <strong>Programmer</strong> &mdash; <i>LSTS Robotics Team</i> </h3>
+<p class="cv-content" id="cv-dates">May 2018 &mdash; May 2021</p>
+
+- Led teams of 2–6 members using LEGO Mindstorms to tackle real-world robotics problems, securing second place in the World Robot Olympiad (National Level) and a top 4 national ranking in the First Lego League Competition.
+- Implemented and fine-tuned the PID algorithm, a widely recognized and extensively used control algorithm in WRO and FLL, to optimize robot accuracy and performance.
+
 # Honors & Awards
 
+<h3 class="cv-content"> <strong>Outstanding Teaching Assistant Award</strong><span class="project-date">Apr 2024</span> </h3>
+- Awarded to one teaching assistant in the Kahlert School of Computing per school year in recognition of exceptional teaching skills and genuine concern for students.
 
+<!-- <h3 class="cv-content"> <strong>Top 4 Final - FIRST Lego League Competition 2019 National</strong><span class="project-date">Jan 2019</span> </h3>
+- Top 4 national overall at First Lego League competition, 2018-2019 season
 
+<h3 class="cv-content"> <strong>Bronze Medalist - World Robot Olympiad 2018 National</strong><span class="project-date">Aug 2018</span> </h3>
+- Bronze Medal at WRO 2018 National Final Round
+
+<h3 class="cv-content"> <strong>Top 4 Final - FIRST Lego League Competition 2018 National</strong><span class="project-date">Jan 2018</span> </h3>
+- Top 4 national overall at First Lego League competition, 2017-2018 season
+
+<h3 class="cv-content"> <strong>Silver Medalist - World Robot Olympiad 2017 National</strong><span class="project-date">Aug 2018</span> </h3>
+- Silver Medal at WRO 2017 National Final Round
+
+<h3 class="cv-content"> <strong>Silver Medalist - Olympic 30/4 Competition Ho Chi Minh city</strong><span class="project-date">Aug 2018</span> </h3>
+- Silver Medal at Olympic 30/4 Competition, Robot B (Sumo robot) Category -->
 
 

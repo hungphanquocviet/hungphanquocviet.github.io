@@ -70,7 +70,9 @@ permalink: /
     <img src="/assets/img/graph-data-structures.png" alt="graph" />
   </div>
   <div class="project-text">
-    <h2>VSCode Graph Tool</h2>
+    <h2>VSCode Graph Tool
+    <span class="project-date"> May 2024</span>
+    </h2>
     <p class="tech-stack">Node.js, JavaScript, VSCode API, Azure</p>
     A VS Code extension for visualizing graph data structures. Key features:
     <ul>
@@ -78,7 +80,51 @@ permalink: /
       <li>Allow basic canvas operations (undo/redo, clear, etc.)</li>
       <li>Export the graph as a DOT file.</li>
     </ul>
-    <p>Links: <a href="https://github.com/hungphanquocviet/vscode-graph-tool" target="_blank">GitHub</a></p>
+    <p>Links: [<a href="https://github.com/hungphanquocviet/vscode-graph-tool" target="_blank">GitHub</a>]</p>
   </div>
 </div>
+
+<br>
+
+<div class="project-container">
+  <div class="project-photo">
+    <img src="/assets/img/lms.png" alt="graph" />
+  </div>
+  <div class="project-text">
+    <h2>Learning Management System
+    <span class="project-date"> Apr 2024</span>
+    </h2>
+    <p class="tech-stack">MySQL, C#, LINQ, ASP.NET</p>
+    A learning management system with key features such as user
+authentication, assignment submission, class enrollment, grading, and class management
+    <ul>
+      <li>Implemented user authentication and role-based access for students, professors, and admins.</li>
+      <li>Ensured a stable deployment on a Linux platform, enhancing the overall system performance and reliability.
+</li>
+    </ul>
+    <p>Links: [<a href="https://github.com/hungphanquocviet/lms">GitHub</a>]</p>
+  </div>
+  
+</div>
+
+<br>
+
+<div class="project-container">
+  <div class="project-photo">
+    <img src="/assets/img/snakegame.png" alt="graph" />
+  </div>
+  <div class="project-text">
+    <h2>Multiplayer Snake Game 
+    <span class="project-date"> Dec 2023</span>
+    </h2>
+    <p class="tech-stack">C#, MAUI, TCP/IP, Visual Studio</p>
+    A real-time multiplayer snake game, adhering to the MVC architecture.
+    <ul>
+      <li>Developed a robust networking infrastructure for the multiplayer functionality, utilizing TCP/IP sockets.</li>
+      <li>Optimized the game to accomodate a maximum of 20 players at a time without latency issue.</li>
+    </ul>
+    <p>Links: [<a href="">GitHub</a>]</p>
+  </div>
+</div>
+
 
