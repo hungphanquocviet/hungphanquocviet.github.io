@@ -6,12 +6,6 @@ permalink: /
 
  <h1 align = "center">Hi there!👋</h1>
 
-<!-- ![](assets/img/pjsk-pjsk-anime.gif) -->
-<!-- # About Me -->
-
-<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
 <!-- [![Kattis](https://img.shields.io/badge/KATTIS-F28C28?style=for-the-badge&logo=Cat&logoColor=white)](https://open.kattis.com/users/hungphan1911) -->
 
 <!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungphanquocviet)
