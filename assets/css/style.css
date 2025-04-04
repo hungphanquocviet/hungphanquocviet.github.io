@@ -44,9 +44,9 @@ body {
   align-items: flex-start;
 }
 
-.project-container:hover {
+/* .project-container:hover {
   transform: translateY(-3px);
-}
+} */
 
 .project-container h2 {
   margin-bottom: 0px;
