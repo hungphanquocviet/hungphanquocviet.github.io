@@ -51,8 +51,8 @@ permalink: /
     <img src="assets/img/profile.jpg" alt="Hung's photo" class="float-img"/>
     I'm Hung, a <strong>Computer Science and Applied Mathematics</strong> student at the University of Utah. I’m currently working as a Teaching Assistant for the Kahlert School of Computing, helping with the Software Practice I course. Previously, I worked as a Research Assistant for the School of Dentistry and the SCI Institute.</p> 
     <p>I like to spend time and learn about many different things. My main interests lie in algorithms (especially graphs), computer graphics, and data science.</p> 
-    <p>In my free time, I enjoy watching anime, playing musical instruments, and solving coding problems. Some of my coding profiles are linked [<a href="https://clist.by/coder/hung1911/" target="_blank">here</a>] if you're interested in checking out :D</p>
-    
+    <p>In my free time, I enjoy watching anime, playing musical instruments, and solving coding problems. You can find some of my coding profiles [<a href="https://clist.by/coder/hung1911/" target="_blank">here</a>] if you're interested :D. I also enjoy writing notes and sharing example code on algorithms, feel free to check them out [<a href="{{ site.baseurl }}/algorithms/" target="_blank">here</a>].</p>
+
   </div>
 
 </div>
